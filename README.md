@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;💼 &nbsp;Currently working as a Software Engineer at [CI&T](https://www.ciandt.com/). \
 &nbsp;&nbsp;&nbsp;🔬 &nbsp;Passionate about science and innovation.\
-&nbsp;&nbsp;&nbsp;⚡ &nbsp;Passionate about problem solving and daily routines automation.\\
+&nbsp;&nbsp;&nbsp;⚡ &nbsp;Passionate about problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;📚 &nbsp;Currently working on development, software architecture, and artificial intelligence.\
 &nbsp;&nbsp;&nbsp;🎓 &nbsp;Finishing my bachelor's degree in Computer Science @ UFSCar.\
 
